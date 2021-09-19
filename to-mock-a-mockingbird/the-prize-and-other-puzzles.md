@@ -1,6 +1,8 @@
 # 奖品和其他一些问题
 选自：_To Mock A Mockingbird_
+
 作者：雷蒙德·斯穆利安
+
 翻译：Shane
 
 ## 三个小迷题
