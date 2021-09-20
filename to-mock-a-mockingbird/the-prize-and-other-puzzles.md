@@ -56,7 +56,7 @@ _注：_ 这个问题也叫做Sancho Panza悖论。我们将在题解中讨论�
 
 [返回目录](index)
 
-[返回主页](shane-xue.github.io)
+[返回主页](https://shane-xue.github.io)
 
 <hr>
 
