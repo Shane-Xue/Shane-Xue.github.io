@@ -54,6 +54,10 @@ _注：_ 这个问题也叫做Sancho Panza悖论。我们将在题解中讨论�
 
 解析：[奖品和其他一些问题—解析](the-prize-and-other-puzzles-solution)
 
+[返回目录](index)
+
+[返回主页](shane-xue.github.io)
+
 <hr>
 
 由于译者本人水平有限，可能不能准确的翻译文章内容。如有不妥，请发送邮件至[qq2198631773@outlook.com](mailto:qq2198631773@outlook.com)指出错误。谢谢您的帮助！
