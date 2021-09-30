@@ -78,7 +78,9 @@ _鲍里斯_ ：你告诉我你去明斯克是为了让我认为你要去平斯�
 
 <hr>
 
-上一章：[糊涂的逻辑学家](the-prize-and-other-puzzles)
+上一章：[奖品和其他一些问题](the-prize-and-other-puzzles)
+
+下一章：（敬请期待……）
 
 解析：(敬请期待……）
 
