@@ -50,11 +50,11 @@ _注：_ 这个问题也叫做Sancho Panza悖论。我们将在题解中讨论�
 
 <hr>
 
-下一章：[糊涂的逻辑学家](the-absentminded-logician)
+下一章：[糊涂的逻辑学家](https://shane-xue.github.io/to-mock-a-mockingbird/the-absentminded-logician)
 
-解析：[奖品和其他一些问题—解析](the-prize-and-other-puzzles-solution)
+解析：[奖品和其他一些问题—解析](https://shane-xue.github.io/to-mock-a-mockingbird/the-prize-and-other-puzzles-solution)
 
-[返回目录](index)
+[返回目录](https://shane-xue.github.io/to-mock-a-mockingbird/index)
 
 [返回主页](https://shane-xue.github.io)
 
