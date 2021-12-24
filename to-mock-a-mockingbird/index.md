@@ -3,7 +3,6 @@
 
 #### 正文
 - [第一节 奖品和其他一些问题](the-prize-and-other-puzzles)
-
 - [第二节 糊涂的逻辑学家](the-absentminded-logician)
 
 #### 解析
