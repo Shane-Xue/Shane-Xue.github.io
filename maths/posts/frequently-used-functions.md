@@ -4,7 +4,7 @@
 
 <hr>
 
-注：该篇是Shane Xue原创，是SMITS学会讲义体系的一部分。欢迎转载，但是麻烦标注出处：[shane-xue.github.io/maths/posts/frequently-used-functions](shane-xue.github.io/maths/posts/frequently-used-functions). 侵权必究.
+注：该篇是Shane Xue原创，是SMITS学会讲义体系的一部分。欢迎转载，但是麻烦标注出处：[shane-xue.github.io/maths/posts/frequently-used-functions](https://shane-xue.github.io/maths/posts/frequently-used-functions). 侵权必究.
 
 <hr>
 
