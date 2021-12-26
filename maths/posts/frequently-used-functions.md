@@ -27,7 +27,7 @@
 
 定义1.1 （常函数）
 
-定义形如 <a name = "../latex-formulas/常函数.jpg"> <img alt = "常函数", src = "../latex-formulas/常函数.jpg"> </a>的函数叫做常函数。
+定义形如 <a name = "../latex-formulas/常函数.jpg"> <img alt = "常函数" src = "../latex-formulas/常函数.jpg"> </a>的函数叫做常函数。
 
 不难看出，常函数的图象就是一条平行于x轴的直线。
 
