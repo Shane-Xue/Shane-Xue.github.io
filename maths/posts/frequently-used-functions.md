@@ -22,19 +22,19 @@
 
 <hr>
 
-<a name = "#one"></a>
+<a name = "#one"> </a>
 ### 一、常函数
 
-<a name = "#two"></a>
+<a name = "#two"> </a>
 ### 二、一次函数
 
-<a name = "#three"></a>
+<a name = "#three"> </a>
 ### 三、二次函数
 
-<a name = "#four"></a>
+<a name = "#four"> </a>
 ### 四、反比例函数
 
-<a name = "#five"></a>
+<a name = "#five"> </a>
 ### 五、幂函数
 
 
