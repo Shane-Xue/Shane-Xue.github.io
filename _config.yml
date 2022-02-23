@@ -1,7 +1,8 @@
-#theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 title: Shane Xue's Blog
 description: 道生集合，集合生lambda，lambda生万物
 base-url: index
+markdown: kramdown
 mathjax: true 
   # enable: true # MathJax equations, e.g. true, false (default)
   # combo:  tex-svg # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
