@@ -1,10 +1,10 @@
-### ¡¶×Æ´©ºÚÒ¹£ºÌ½Â·Õß¡·
-# Ä¿Â¼
+### ã€Šç¼ç©¿é»‘å¤œï¼šæ¢è·¯è€…ã€‹
+# ç›®å½•
 
-[ĞòÕÂ:Ì½Â·Õß](chapter0)
+[åºç« :æ¢è·¯è€…](chapter0)
 
 <hr>
 
-[·µ»Ø·½ÖÛ×¨Çø´óÄ¿Â¼](https://shane-xue.github.io/arknights/index)
+[è¿”å›æ–¹èˆŸä¸“åŒºå¤§ç›®å½•](https://shane-xue.github.io/arknights/index)
 
-[·µ»ØÖ÷Ä¿Â¼](https://shane-xue.github.io)
+[è¿”å›ä¸»ç›®å½•](https://shane-xue.github.io)
